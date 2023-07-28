@@ -1,0 +1,69 @@
+nav ul a,
+nav .brand-logo {
+  color: aliceblue;
+  
+}
+
+nav ul a {
+  font-size: 17px;
+  
+}
+
+.light1{
+    -webkit-text-stroke: 0.9px black;
+    margin-top: 130px;
+}
+
+#contacto .contenedor-form .fila {
+    margin-bottom: 15px;
+}
+
+#contacto .contenedor-form .mitad {
+    display: flex;
+    justify-content: space-between;
+}
+
+#contacto .contenedor-form input,
+#contacto .contenedor-form textarea {
+    padding: 20px;
+    border-radius: 20px;
+    border: none;
+    border: 1px solid #919191;
+}
+
+#contacto .contenedor-form .mitad input {
+    width: 48%;
+    margin-right: 7px;
+}
+
+#contacto .contenedor-form .input-full {
+    width: 95%;
+}
+
+#contacto .btn-enviar {
+    display: block;
+    margin: auto;
+    cursor: pointer;
+    transition: .5s;
+    padding: 10px 15px !important;
+}
+
+#contacto .btn-enviar:hover {
+    background-color: #ff5080;
+    color: #fff;
+}
+
+.ajustar{
+    margin-top: 135px;
+}
+
+.centro{
+    margin: auto;
+}
+
+.card-reveal{
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
